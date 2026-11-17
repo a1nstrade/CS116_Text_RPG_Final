@@ -7,23 +7,23 @@ Personal notes for the **Text-Based RPG Dungeon Game** (CS-116, Fall 2026).
 ## Game Concept
 
 **Theme / setting:**  
-_To decide._
+Going to revolve around Risk of Rain and is going to use ASCII art of RORR Sprites
 
 **Player's goal:**  
-_To decide._
+Defeat A Teleporter Boss
 
 **Win condition:**  
-_To decide._
+Beat The Boss
 
 **Loss condition:**  
-_To decide._
+Die by The Boss
 
 ## Character Design
 
 | Character type | Playable? | Unique attributes | Unique methods | Notes |
-|---|---|---|---|---|
-| TBD | TBD | | | |
-| TBD | TBD | | | |
+| Commando | Yes | Ammo | Tracks the remaining bullets ||
+| Artificer | TBD | Handheld Generator (Device 4) | Tracks amount of energy left for elemental attacks | |
+| Mercenary | TBD | | Armor | Reduces Damage |
 | TBD | TBD | | | |
 | TBD | TBD | | | |
 | TBD | TBD | | | |
