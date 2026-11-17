@@ -132,3 +132,5 @@ Allow the player to save their progress, exit the game, and continue from their 
 ---
 
 **Project Status:** In Development
+
+- NOTE: Minimal amount of AI will be used. Only use of AI so far: Created the README based on project PDF, Created the .md files for bases
