@@ -21,12 +21,12 @@ Die by The Boss
 ## Character Design
 
 | Character type | Playable? | Unique attributes | Unique methods | Notes |
-| Commando | Yes | Ammo | Tracks the remaining bullets ||
-| Artificer | TBD | Handheld Generator (Device 4) | Tracks amount of energy left for elemental attacks | |
-| Mercenary | TBD | | Armor | Reduces Damage |
-| TBD | TBD | | | |
-| TBD | TBD | | | |
-| TBD | TBD | | | |
+| Commando       | Yes       | Ammo              | shoot(), reload() ||
+| Artificer      | Yes       | Energy            | castElemntalAttack(), recharge() | |
+| Mercenary      | Yes       | Armor             | slash(), block() ||
+| Lemurian       | No        | | | |
+| Rock Golem     | No        | | | |
+| Colossus       | No        | | | |
 
 The assignment requires at least **five `Actor` subclasses**, including at least **three playable** character types.
 
