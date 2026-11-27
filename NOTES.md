@@ -24,6 +24,7 @@ Die by The Boss
 | Commando       | Yes       | Ammo              | shoot(), reload() ||
 | Artificer      | Yes       | Energy            | castElemntalAttack(), recharge() | |
 | Mercenary      | Yes       | Armor             | slash(), block() ||
+| HAN-D         | No        | | | Shop NPC Where you pick between 3 items to buy that gets added to your inventory/action options |
 | Lemurian       | No        | | | |
 | Rock Golem     | No        | | | |
 | Colossus       | No        | | | |
